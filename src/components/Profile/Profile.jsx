@@ -3,9 +3,9 @@ import s from './Profile.module.css';
 import MyPosts from "./MyPosts/MyPosts";
 
 const Profile = () => {
-    return  <div className={s.content}>
+    return  <div>
         <div>
-            <img src='https://assetsnffrgf-a.akamaihd.net/assets/m/102018087/univ/art/102018087_univ_lsr_xl.jpg'></img>
+            <img src='https://assetsnffrgf-a.akamaihd.net/assets/m/2015402/univ/art/2015402_univ_lsr_lg.jpg'></img>
         </div>
         <div>
             ava + description
