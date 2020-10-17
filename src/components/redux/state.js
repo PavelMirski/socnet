@@ -1,5 +1,5 @@
 let state = {
-    dialogPage: {
+    dialogsPage: {
         dialogs: [
             {id: 1, name: 'Petr'},
             {id: 2, name: 'Ishak'},
