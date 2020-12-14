@@ -20,7 +20,9 @@ let Users = (props) => {
                              }}>{p}</span>
             })}
         </div>
-        {/*<button onClick={Users}>Get Users</button>*/}
+{/*
+        <button onClick={Users}>Get Users</button>
+*/}
         {
             props.users.map(u => <div key={u.id}>
             <span>
